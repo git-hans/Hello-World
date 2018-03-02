@@ -2,3 +2,7 @@ hej
 some more text
 
 uniq f my branch.
+
+stuff coming from the clone ####
+####
+
